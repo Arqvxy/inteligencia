@@ -51,7 +51,7 @@ const questions = [
         ]
     },
     {
-        text: "Obrigado por suas respostas!A história da primeira IA começa na década de 1950, quando os primeiros algoritmos foram desenvolvidos. Desde então, houve um crescimento exponencial nas capacidades das IAs, e a previsão é que até 2050 elas sejam capazes de realizar tarefas complexas e interagir de maneira quase indistinguível dos humanos. A evolução até 2050 pretende trazer IAs que possam colaborar em qualquer aspecto da vida humana, promovendo avanços significativos em saúde, educação e outras áreas essenciais."
+        text: "A história da primeira IA começa na década de 1950, quando os primeiros algoritmos foram desenvolvidos. Desde então, houve um crescimento exponencial nas capacidades das IAs, e a previsão é que até 2050 elas sejam capazes de realizar tarefas complexas e interagir de maneira quase indistinguível dos humanos. A evolução até 2050 pretende trazer IAs que possam colaborar em qualquer aspecto da vida humana, promovendo avanços significativos em saúde, educação e outras áreas essenciais."
     ,
         options: [
             { text: "Finalizar Questionário", next: null },
